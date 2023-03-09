@@ -1,1 +1,1 @@
-# M_Silly_Walks
+# M_SWalks
